@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canalesbr1
-- 👀 I’m interested in design, code, productivity etc.
+- 👀 I’m interested in design, code, proceduralism, music, productivity etc.
 - 🌱 I’m currently learning web development / python scripting
 - 💞️ I’m looking to collaborate on creative code projects
 - 📫 Reach out! DM me on instagram @canalesbr1 or @crea.st
